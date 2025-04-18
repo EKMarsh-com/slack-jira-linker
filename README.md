@@ -10,7 +10,7 @@ A simple Slack app that:
   Sets the prefix used in the current Slack channel.
 
 - `/jira 420`  
-  Turns into: https://<domain>.atlassian.net/browse/VV-420
+  Turns into: https://< domain >.atlassian.net/browse/VV-420
 
 ## Deploy
 
