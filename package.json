@@ -1,0 +1,19 @@
+{
+  "name": "slack-jira-linker",
+  "version": "1.0.0",
+  "description": "A Slack app that generates Jira ticket links based on channel-configured prefixes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": ["slack", "jira", "bot", "linker"],
+  "author": "EKMarsh",
+  "license": "MIT"
+}
